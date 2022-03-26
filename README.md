@@ -1,3 +1,3 @@
 # odin-recipes
-This website will link up to a couple of recipe pages on other websites.
-Skills: HTML
+Display an array of food recipes that I enjoy.
+Skills: HTML: img, href, ol and ul
